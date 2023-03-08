@@ -1,0 +1,7 @@
+body{
+    background: rgba(79, 63, 63, 0.405);
+}
+.card-text{
+   overflow-y: auto;
+    height: 6rem;
+}
