@@ -7,5 +7,7 @@
 - vs.code
 - bootstrap
 
-[extra](Extra/extra.png)
+### images
+- [extra](images/extra.png)
+- [web-bootstrap](images/web-bootstrap.png)
 
